@@ -1,1 +1,1 @@
-# CppPrj02
+# A simple TicTacToc game.
